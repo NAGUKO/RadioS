@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,88 Fm (KAN)
+#EXTINF:-1,88 fm
 https://kan88.media.kan.org.il/hls/live/2024812/2024812/kan88_mp3/chunklist.m3u8
-#EXTINF:-1,Kan Tarbut (KAN)
+#EXTINF:-1,Kan Tarbut
 https://kantarbut.media.kan.org.il/hls/live/2024816/2024816/kantarbut_mp3/chunklist.m3u8
 #EXTINF:-1,KZradio
 https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 #EXTINF:-1,Mahut Hahaim
 https://eol-live.cdnwiz.com/eol/eolsite/chunks.m3u8
-#EXTINF:-1,Glglz
+#EXTINF:-1,Galglz
 https://glzwizzlv.bynetcdn.com/glglz_mp3
-#EXTINF:-1,Glz
+#EXTINF:-1,GLZ
 https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
-#EXTINF:-1,88 Fm
-https://kanliveicy.media.kan.org.il/icy/749623_mp3
-#EXTINF:-1,Kan Tarbut
-https://kanliveicy.media.kan.org.il/icy/749634_mp3?providername
+#EXTINF:-1,104.5fm
+https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio
+#EXTINF:-1,Eco 99fm
+http://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio
